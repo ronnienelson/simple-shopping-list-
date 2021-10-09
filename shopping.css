@@ -1,0 +1,25 @@
+body{
+ color:white;
+}
+form{
+  text-align:center;
+}
+input{
+  padding:1em;
+  border-radius:25px;
+  opacity:.65;
+  font-size:1em;
+  width:5%;
+  text-align:center;
+ color:transparent;
+  text-shadow: 0 0 0 #2196f3;
+}
+#a{
+  
+  color:black;
+    text-shadow: 2px 2px 0 #2196f3;
+  text-align:center;
+}
+h1{
+    text-shadow: 0 0 0 #2196f3;
+}
