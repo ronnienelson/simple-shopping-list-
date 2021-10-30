@@ -1,25 +1,49 @@
 body{
- color:white;
-}
-form{
   text-align:center;
+
 }
 input{
-  padding:1em;
+    padding:.5em;
+  margin:.5em;
   border-radius:25px;
-  opacity:.65;
-  font-size:1em;
-  width:5%;
-  text-align:center;
- color:transparent;
-  text-shadow: 0 0 0 #2196f3;
 }
-#a{
-  
+#addtolist{
+  border-radius:25px;
+  padding:1em;
+  margin-top:2em;
   color:black;
-    text-shadow: 2px 2px 0 #2196f3;
-  text-align:center;
+  background:white;
+  height:auto;
+  width:auto;
 }
-h1{
-    text-shadow: 0 0 0 #2196f3;
+
+p{
+  margin-top:2em;
+  font-size:1.5em;
+  cursor:grab;
+}
+strong{
+  color: blue;
+}
+
+#container{
+  border:1px solid;
+  border-radius: 25px;
+  padding:1em;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+background-color:lightblue;
+}
+#deleting{
+  border-radius:50%;
+  background:red;
+  height:20px;
+  width:20px;
+  
+}
+
+#info{
+  font-size:1.2em;
+  cursor:default;
 }
